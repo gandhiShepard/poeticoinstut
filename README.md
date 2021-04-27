@@ -8,6 +8,10 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
+## Notes
+
+- This is a fantastic tutorial
+
 ## Coinbase
 
 ```elixir
